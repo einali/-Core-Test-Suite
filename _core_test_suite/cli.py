@@ -1,4 +1,4 @@
-"""CLI interface for project_name project.
+"""CLI interface for _core_test_suite project.
 
 Be creative! do whatever you want!
 
@@ -12,7 +12,7 @@ Be creative! do whatever you want!
 def main():  # pragma: no cover
     """
     The main function executes on commands:
-    `python -m project_name` and `$ project_name `.
+    `python -m _core_test_suite` and `$ _core_test_suite `.
 
     This is your program's entry point.
 
